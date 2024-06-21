@@ -97,13 +97,13 @@ SSR协议，10 G 流量+免费 1 天
 
 官网: [点击注册](https://go.52nav.com/xiaojikp)
 
-### 8.蓝帆云
+### 8.Surfshark VPN
 
-入门款 有香港、日本、台湾、新加坡、美国地区。 
+全球知名VPN，荷兰公司。
 
-最低 9.99CNY/50GB/每月  每天签到送流量
+匿名性强，大陆地区连接速度稍差点。
 
-官网：[点我进入](https://go.52nav.com/lanfanyun)
+官网：[点击注册](https://go.52nav.com/surfshark)
 
 
 ### 9.奈云
@@ -114,13 +114,14 @@ SSR协议，10 G 流量+免费 1 天
 
 官网：[点我进入](https://go.52nav.com/naiyun)
 
-### 10.奶茶Cloud
 
-多协议，流媒体解锁。
+### 10.蓝帆云
 
-基础最低月付 11.9 元包月 200G。
+入门款 有香港、日本、台湾、新加坡、美国地区。 
 
-官网：[点击注册](https://go.52nav.com/naichayun)
+最低 9.99CNY/50GB/每月  每天签到送流量
+
+官网：[点我进入](https://go.52nav.com/lanfanyun)
 
 ***
 
